@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "426017590362",
+    "project_id": "sensors-04vwy4",
+    "storage_bucket": "sensors-04vwy4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426017590362:android:89530e00707f3ab8f8dc63",
+        "android_client_info": {
+          "package_name": "com.vizsoft.sensors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426017590362-0b11q2vp8i2rokbb7bqdcth3r0hoo6m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizsoft.sensors",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "426017590362-h1eq0i1i7e9qb34rql82mfpq09hg24i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSyanVe6_nJO9PMW6BTmwLvKgrastJhEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426017590362-h1eq0i1i7e9qb34rql82mfpq09hg24i7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426017590362-8fr1t6eugg8t74dctiktj0p3darriei0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vizsoft.sensors"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
