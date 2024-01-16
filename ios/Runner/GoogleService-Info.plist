@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>426017590362-8fr1t6eugg8t74dctiktj0p3darriei0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.426017590362-8fr1t6eugg8t74dctiktj0p3darriei0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>426017590362-0b11q2vp8i2rokbb7bqdcth3r0hoo6m8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGo_ygK8OcLhz4ScBqgE3OAB0AQMa9j_w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>426017590362</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vizsoft.sensors</string>
+	<key>PROJECT_ID</key>
+	<string>sensors-04vwy4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sensors-04vwy4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:426017590362:ios:0d322b4cfec16a4ef8dc63</string>
+</dict>
+</plist>
